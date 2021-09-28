@@ -12,7 +12,6 @@ for(let anchor of anchors) {
 
             behavior: 'smooth',
             block: 'start',
-            scroll-behavior: 'smooth',
 
         })
     })
